@@ -17,7 +17,7 @@ jobs:
       - name: Generate Pacman Graph
         uses: Platane/snk@v3
         with:
-          github_user_name: breventh-code
+          github_user_name: Breventh-code
           outputs: |
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
             dist/pacman-contribution-graph.svg?palette=github-light
