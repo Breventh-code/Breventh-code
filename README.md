@@ -189,7 +189,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://media.tenor.com/NKj4R8H0wS0AAAAd/moon-ocean.gif" width="100%" />
+<img src="./github.gif" width="100%" />
 
 </div>
 
